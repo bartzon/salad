@@ -28,3 +28,7 @@ Known problems
 Authors
 -------
 Written by Sjoerd Tieleman ([@tieleman](http://twitter.com/tieleman)) and Bart Zonneveld ([@bartzon](http://twitter.com/bartzon)), to scratch their own itch. Patches much appreciated.
+
+See also
+--------
+Something you might also like (but wasn't around when we wrote this): [Parallel specs](http://github.com/grosser/parallel_specs). Takes a slightly different approach.
