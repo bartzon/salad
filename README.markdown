@@ -16,7 +16,7 @@ Configuration
 -------------
 You can configure the arguments passed to Cucumber by editing the rake task. The number of Cucumber processes is determined by the `SALAD_INSTANCES` environment variable which, if not explicitly set, defaults to 4.
 
-It is assumed your features live under "RAILS_ROOT/features", if this is not the case you can change the `features_dir` variable in the script.
+It is assumed your features live under `RAILS_ROOT/features`, if this is not the case you can change the `features_dir` variable in the script.
 
 When in doubt, read the script. ;-)
 
@@ -27,4 +27,4 @@ Known problems
 
 Authors
 -------
-Written by Sjoerd Tieleman ([@tieleman](http://twitter.com/tieleman)) and Bart Zonneveld ([@bartzon](http://twitter.com/bartzon)), to scratch their own itch.
+Written by Sjoerd Tieleman ([@tieleman](http://twitter.com/tieleman)) and Bart Zonneveld ([@bartzon](http://twitter.com/bartzon)), to scratch their own itch. Patches much appreciated.

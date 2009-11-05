@@ -5,8 +5,8 @@
 # 
 # Copyright (c) 2009 Nederlandse Publieke Omroep
 # Written by:
-#   Bart Zonneveld (bart.zonneveld@omroep.nl)
-#   Sjoerd Tieleman (sjoerd.tieleman@omroep.nl)
+#   Bart Zonneveld (@bartzon)
+#   Sjoerd Tieleman (@tieleman)
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
