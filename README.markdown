@@ -2,7 +2,7 @@ Run your Cucumber on multiple CPUs.
 
 Setup
 =====
-Simple copy the rake task to `lib/tasks` in your Rails project.
+Simply copy the rake task to `lib/tasks` in your Rails project.
 
 Usage
 -----
